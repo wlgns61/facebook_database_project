@@ -3,5 +3,5 @@
 (3)Facebook.py로 실행
 
 개발환경: 
-Python3.6
-MySQL 8.0.21
+*Python3.6
+*MySQL 8.0.21
